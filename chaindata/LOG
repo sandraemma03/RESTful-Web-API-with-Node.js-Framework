@@ -1,0 +1,6 @@
+2018/08/22-04:02:24.168 4c38 Recovering log #40
+2018/08/22-04:02:24.168 4c38 Level-0 table #42: started
+2018/08/22-04:02:24.178 4c38 Level-0 table #42: 400 bytes OK
+2018/08/22-04:02:24.185 4c38 Delete type=0 #40
+2018/08/22-04:02:24.185 4c38 Delete type=3 #38
+2018/08/22-04:02:24.188 304c Moved #5 to level-1 468 bytes OK: files[ 3 1 0 0 0 0 0 ]
